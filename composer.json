@@ -35,7 +35,7 @@
         "illuminate/routing": "~5.0",
         "illuminate/support": "~5.0",
         "illuminate/view": "~5.0",
-        "cartalyst/sentry": "~3.0-dev",
+        "cartalyst/sentry": "dev-master",
         "graham-campbell/core": "~2.0",
         "graham-campbell/database": "0.2.*",
         "graham-campbell/binput": "~3.0",
